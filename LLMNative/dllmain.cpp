@@ -17,7 +17,7 @@
 #include <fstream>
 
 using uint = uint32_t;
-#pragma optimize("", off)
+//#pragma optimize("", off)
 
 //srw locks are cool
 struct lock
